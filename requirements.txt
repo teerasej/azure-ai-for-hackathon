@@ -1,0 +1,4 @@
+semantic-kernel
+azure-ai-documentintelligence
+azure-ai-projects
+azure-identity
