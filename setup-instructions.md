@@ -26,6 +26,12 @@ Install the following extensions to enhance your development experience:
    - Provides IntelliSense, linting, debugging, code navigation, and more
    - [Install Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
+2. **Nextflow Python Pack**
+   - A comprehensive extension pack for Python development
+   - Includes multiple useful tools for Python developers
+   - [Install Nextflow Python Pack](https://marketplace.visualstudio.com/items?itemName=teerasej.nextflow-python-pack)
+
+
 #### Installing Extensions in VS Code
 
 1. Open VS Code
