@@ -59,14 +59,6 @@ Python is required for developing and running the AI applications in this hackat
     ```
     *(The version number may vary, but it should be 3.8 or newer.)*
 
-
-### Package Information
-
-1. **Azure AI Foundry SDK**
-    - SDK for building, deploying, and managing AI solutions on Azure
-    - [Documentation](https://learn.microsoft.com/azure/ai-foundry/)
-
-
 ## Summary
 
 After completing these setup steps, you'll have a fully configured development environment ready for the Azure AI Hackathon. You can now proceed to the specific topic guides to start exploring Azure AI services.
