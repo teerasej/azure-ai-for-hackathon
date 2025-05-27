@@ -2,6 +2,12 @@
 
 This guide provides detailed setup instructions to prepare your development environment for this Hackathon.
 
+## Azure Account Setup
+
+1. If you don't have an Azure account, you can create one for free at [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/).
+2. Follow the instructions to set up your account and verify your email.
+3. Try to sign in to the Azure Portal at [https://portal.azure.com](https://portal.azure.com) to ensure your account is active.
+
 ## Development Environment Setup
 
 ### 1. Visual Studio Code
@@ -47,57 +53,10 @@ Python is required for developing and running the AI applications in this hackat
     ```
     *(The version number may vary, but it should be 3.8 or newer.)*
 
-#### Python Environment Setup
-
-For best results, we recommend using a virtual environment:
-
-1. Open terminal to this workspace, then run:
-
-```bash
-# Create a virtual environment
-python -m venv .venv
-```
-
-2. Activate environment (Windows or MacOS)
-
-**On Windows:**
-```bash
-.venv\Scripts\activate
-```
-
-**On macOS/Linux:**
-```bash
-source .venv/bin/activate
-```
-
-3.  Install the package
-
-- A. Run the following command
-
-```bash
-# Install Semantic Kernel, Azure Document Intelligence, and Azure AI Foundry SDKs
-pip install semantic-kernel azure-ai-documentintelligence azure-ai-projects azure-identity semantic-kernel
-```
-
-- B. Alternatively, install from requirements.txt file
-
-```bash
-# Install all required packages from requirements.txt
-pip install -r requirements.txt
-```
-
 
 ### Package Information
 
-1. **Semantic Kernel**
-   - Microsoft's AI orchestration library for integrating AI models
-   - [Documentation](https://learn.microsoft.com/semantic-kernel/overview/)
-
-2. **Azure AI Document Intelligence SDK**
-   - SDK for working with Document Intelligence service
-   - [Documentation](https://learn.microsoft.com/python/api/overview/azure/ai-document-intelligence-readme)
-
-3. **Azure AI Foundry SDK**
+1. **Azure AI Foundry SDK**
     - SDK for building, deploying, and managing AI solutions on Azure
     - [Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 
