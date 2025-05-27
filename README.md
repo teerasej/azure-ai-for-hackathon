@@ -31,3 +31,11 @@ Feel free to contribute to this repository by submitting pull requests or openin
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Created by
+
+Teerasej Jiraphatchandej 
+- Youtube: [@teerasej](https://www.youtube.com/@teerasej)
+- Facebook: [@teerasej](https://www.facebook.com/teerasej)
+- Twitter: [@teerasej](https://twitter.com/teerasej)
+- Nextflow.in.th: [Nextflow](https://nextflow.in.th)
