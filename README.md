@@ -12,16 +12,20 @@ Welcome to the Azure AI for Hackathon repository! This guide will help you explo
 
 This repository contains step-by-step guides for the following topics:
 
+### 1. Azure Resources
+1. [Exercise 1: Creating an Azure resource](./create-azure-resource.md) - Learn how to create and manage Azure WebApp Service using the Azure Portal.
+
+
 ### Prediction AI
 
-1. [Creating an Azure AI Document Intelligence Service](./doc-intelligence-setup.md) - Learn how to set up the Document Intelligence service (free tier) in Azure Portal
-2. [Using Document Intelligence Studio](./doc-intelligence-studio.md) - Explore how to test and use Document Intelligence capabilities
+1. [Exercise 2: Creating an Azure AI Document Intelligence Service](./doc-intelligence-setup.md) - Learn how to set up the Document Intelligence service (free tier) in Azure Portal
+2. [Exercise 3: Using Document Intelligence Studio](./doc-intelligence-studio.md) - Explore how to test and use Document Intelligence capabilities
 3. (Optional) [Using Document Intelligence - Prebuilt Models](https://microsoftlearning.github.io/mslearn-ai-document-intelligence/Instructions/Exercises/01-use-prebuilt-models.html)
 
 ### Generative AI
 
-4. [Explore and testing model with an Azure AI Foundry Project](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02-Explore-model-catalog.html) - Learn how to create an AI Foundry project and explore the model catalog
-5. [Create a generative AI chat app with AI Foundry SDK](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html)
+4. [Exercise 4: Explore and testing model with an Azure AI Foundry Project](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02-Explore-model-catalog.html) - Learn how to create an AI Foundry project and explore the model catalog
+5. [Exercise 5: Create a generative AI chat app with AI Foundry SDK](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html)
 
 
 ## Contribution
